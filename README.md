@@ -1,2 +1,2 @@
 # The-sorting-hat
-python BG from Zero EP8: class and OOP
+python BG from Zero EP8: class and OOP Homework
